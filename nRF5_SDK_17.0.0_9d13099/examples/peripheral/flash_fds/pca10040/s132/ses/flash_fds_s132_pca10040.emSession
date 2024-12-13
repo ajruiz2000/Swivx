@@ -1,0 +1,48 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <Exceptions set="HardFault"/>
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1/>
+ <Memory2/>
+ <Memory3/>
+ <Memory4/>
+ <Project>
+  <ProjectSessionItem path="flash_fds_s132_pca10040"/>
+  <ProjectSessionItem path="flash_fds_s132_pca10040;flash_fds_s132_pca10040"/>
+  <ProjectSessionItem path="flash_fds_s132_pca10040;flash_fds_s132_pca10040;Application"/>
+  <ProjectSessionItem path="flash_fds_s132_pca10040;flash_fds_s132_pca10040;nRF_Libraries"/>
+ </Project>
+ <Register1/>
+ <Register2/>
+ <Register3/>
+ <Register4/>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="12" y="268" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../main.c" selected="1" top="245" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="82" useTextEdit="1" openedFrom="C:/Users/music/Documents/nRF5SDK17009d13099/nRF5_SDK_17.0.0_9d13099/examples/peripheral/flash_fds/main.c" useBinaryEdit="0" left="0" path="../../../fds_example.h" selected="0" top="47" codecName="Default"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="flash_fds_s132_pca10040" fileDialogDefaultFilter="*.h" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="/Users/LukeWilliams/Documents/back-basics-copy/nRF5_SDK_12.3.0_d7731ad/examples/ble_peripheral/ble_app_template_ses" debugSearchPath="" autoConnectCapabilities="3199"/>
+</session>

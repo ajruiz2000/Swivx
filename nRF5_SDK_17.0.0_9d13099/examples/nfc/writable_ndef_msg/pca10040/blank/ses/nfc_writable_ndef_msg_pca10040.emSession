@@ -1,0 +1,48 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <Exceptions set="HardFault"/>
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1/>
+ <Memory2/>
+ <Memory3/>
+ <Memory4/>
+ <Project>
+  <ProjectSessionItem path="nfc_writable_ndef_msg_pca10040"/>
+  <ProjectSessionItem path="nfc_writable_ndef_msg_pca10040;nfc_writable_ndef_msg_pca10040"/>
+  <ProjectSessionItem path="nfc_writable_ndef_msg_pca10040;nfc_writable_ndef_msg_pca10040;Application"/>
+ </Project>
+ <Register1/>
+ <Register2/>
+ <Register3/>
+ <Register4/>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="82" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../main.c" selected="0" top="55" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="205" useTextEdit="1" openedFrom="C:/Users/music/Documents/nRF5SDK17009d13099/nRF5_SDK_17.0.0_9d13099/examples/nfc/writable_ndef_msg/main.c" useBinaryEdit="0" left="0" path="../../../ndef_file_m.c" selected="1" top="185" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="386" useTextEdit="1" openedFrom="C:/Users/music/Documents/nRF5SDK17009d13099/nRF5_SDK_17.0.0_9d13099/examples/nfc/writable_ndef_msg/ndef_file_m.c" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/util/app_util.h" selected="0" top="363" codecName="Default"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="nfc_writable_ndef_msg_pca10040" fileDialogDefaultFilter="*.h" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="/Users/LukeWilliams/Documents/back-basics-copy/nRF5_SDK_12.3.0_d7731ad/examples/ble_peripheral/ble_app_template_ses" debugSearchPath="" autoConnectCapabilities="3199"/>
+</session>
